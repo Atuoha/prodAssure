@@ -1,6 +1,6 @@
 # prod_assure
 
-A new Flutter project.
+Flutter App for authenticating the validity of a purchased product through scanning the code it was assigned to by the manufacturer who uploaded the product. Making use of Provider and Firebase for persisting and fetching data
 
 ## Getting Started
 
